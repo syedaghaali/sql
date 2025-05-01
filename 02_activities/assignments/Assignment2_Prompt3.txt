@@ -1,0 +1,1 @@
+As per the slowly changing Dimensions (SCD), out of these two proposed architectures for the CUSTOMER_ADDRESS table, the architecture that overwrites and stores only the latest data is the type 1 SCD. On the other hand, the architecture that retains changes is the type 2 SCD.
